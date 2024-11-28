@@ -425,7 +425,9 @@ canvas {
   .top-skills-icons
   .express-icon
   .tooltip {
-  background-color: var(--light);
+  /* background-color: var(--light); */
+  background-color: #1e1e1e;
+  color: white;
 }
 .main-section
   .hero-section
